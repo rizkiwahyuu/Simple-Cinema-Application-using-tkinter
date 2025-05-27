@@ -1,0 +1,40 @@
+Stok_Image/hotdog beef.png,Food,50000
+Stok_Image/fried fishball.png,Food,48000
+Stok_Image/sausage_fries.png,Food,48000
+Stok_Image/hotdog chicken.png,Food,48000
+Stok_Image/fried somay.png,Food,48000
+Stok_Image/french fries.png,Food,48000
+Stok_Image/aqua 600ml.png,Drink,15000
+Stok_Image/mizone.png,Drink,20000
+Stok_Image/pulpy orange.png,Drink,20000
+Stok_Image/frestea jasmine.png,Drink,20000
+Stok_Image/medium nestea.png,Drink,30000
+Stok_Image/medium milo.png,Drink,30000
+Stok_Image/large nestea.png,Drink,33000
+Stok_Image/medium sprite.png,Drink,30000
+Stok_Image/medium fanta.png,Drink,30000
+Stok_Image/medium coca cola.png,Drink,30000
+Stok_Image/large sprite.png,Drink,33000
+Stok_Image/large fanta.png,Drink,33000
+Stok_Image/large coca cola.png,Drink,33000
+Stok_Image/medium caramel popcorn.png,Popcorn,52000
+Stok_Image/large caramel popcorn.png,Popcorn,76000
+Stok_Image/small salty popcorn.png,Popcorn,35000
+Stok_Image/medium salty popcorn.png,Popcorn,42000
+Stok_Image/large salty popcorn.png,Popcorn,66000
+Stok_Image/large mix popcorn.png,Popcorn,76000
+Stok_Image/smooth combo.png,Promo,67000
+Stok_Image/combo cola-borasi.png,Promo,56000
+Stok_Image/combo special.png,Combo,100000
+Stok_Image/combo duo.png,Combo,90000
+Stok_Image/combo solo.png,Combo,60000
+Stok_Image/combo puas.png,Combo,102000
+Stok_Image/es oyen.jpg,Drink,15000
+Stok_Image/kopi.jpg,Drink,15000
+Stok_Image/rawon.jpg,Food,25000
+Stok_Image/seblak.jpe,Food,25000
+Stok_Image/soto.jpg,Food,25000
+Stok_Image/bakso.jpeg,Food,25000
+Stok_Image/nasi padang.jpeg,Food,25000
+Stok_Image/sate ayam.jpg,Food,25000
+Stok_Image/mie.webp,Food,25000
